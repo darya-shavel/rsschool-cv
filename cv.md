@@ -13,6 +13,7 @@ Basis knowledge in:
 1. JS, PHP, HTML, CSS.
 2. BPM Notation, FlowChart diagrams
 3. CRM-system: bpm-online, Bitrix24
+
 ## Experience 
 
 1. End course on freeCodeCamp (Basic HTML, bsic CSS, basic JS)
