@@ -5,7 +5,6 @@
 - vk: https://vk.com/id134997006;
 - telegram: @Darya_Shavel.
 
-## 
 This course is a great opportunity to study and learn the basics of web-development. I wish to finish the course and get a job at EPAM. I like to learn something new and cope with various tasks. Self-training is very important and this course teaches just that.
 
 ## Skills 
