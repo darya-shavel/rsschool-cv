@@ -9,14 +9,14 @@ This course is a great opportunity to study and learn the basics of web-developm
 
 ## Skills 
 
-Basis knowledge in: 
+Basic knowledge in: 
 1. JS, PHP, HTML, CSS.
 2. BPM Notation, FlowChart diagrams
 3. CRM-system: bpm-online, Bitrix24
 
 ## Experience 
 
-1. End course on freeCodeCamp (Basic HTML, bsic CSS, basic JS)
+1. End course on freeCodeCamp (Basic HTML, basic CSS, basic JS)
 2. End course on htmlAcademy:
     - Знакомство с HTML и CSS
     - Структура HTML-документа
