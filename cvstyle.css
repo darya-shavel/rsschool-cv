@@ -1,0 +1,71 @@
+body{
+    margin:0;
+}
+.container{
+    background-color: rgb(184, 184, 201);
+    font-family: "Raleway";
+    width: 1024px;
+}
+.name-nav{
+    position: absolute;
+    background-color:rgb(132, 132, 214);
+    display: flex;
+    flex-direction: initial;
+    height: 500px;
+}
+.name{
+    background-color:rgb(132, 132, 214);
+    font-size: 80px;
+}
+.contactinf{
+    margin-top: 80px;
+}
+.email, .vk , .teleg, .phone{
+    padding: 20px 20px 20px 100px;
+}
+.phone{
+    padding-left: 62%;
+}
+.photo-inf{
+    position: relative;
+    float: right;
+    top: 250px;
+    left: -70px;
+    background-color: #ffffff;
+    width: 85%;
+    padding: 1%;
+}
+#photocv{
+    position: relative;
+    border: 5px solid rgb(132, 132, 214);
+    border-radius: 50%;
+    width: 50%;
+    float: left;
+}
+#contacts{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.goal{
+    text-align: center;
+    padding-top: 68%;
+    font-size: 35px;
+}
+.skill, .experience, .english{
+    margin: 0;
+    text-align: center;
+    font-size: 80px;
+}
+.know, .experience-course, .eng{
+    position: relative;
+    width: 85%;
+    font-size: 30px;
+    background-color: #ffffff;
+    margin-left: 8%;
+}
+#basic-know{
+    width: 100%;
+    background-color:  rgb(132, 132, 214);
+}
+
