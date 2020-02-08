@@ -17,7 +17,7 @@ body{
     background-color:rgb(132, 132, 214);
     font-size: 80px;
 }
-.contactinf{
+.contact-inf{
     margin-top: 80px;
 }
 .email, .vk , .teleg, .phone{
@@ -35,7 +35,7 @@ body{
     width: 85%;
     padding: 1%;
 }
-#photocv{
+#photo-cv{
     position: relative;
     border: 5px solid rgb(132, 132, 214);
     border-radius: 50%;
